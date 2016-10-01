@@ -7,7 +7,7 @@ This project is for practising design, algorithm and coding.
 * Stage 1: core functionality
   - [ ] math expression parsing for basic operators (+, -, \*, /, ^, !), negation and parentheses
   - [ ] syntax tree evaluation
-  - [ ] result display
+  - [ ] command line user interface
   - [ ] error handling
   
 * Stage 2: precision enhancement
