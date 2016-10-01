@@ -23,4 +23,5 @@ This project is for practising design, algorithm and coding.
   
 * Stage 5: advanced features
   - [ ] user defined variables and constants
-  
+  - [ ] logic and bitwise operators
+  - [ ] user defined functions
