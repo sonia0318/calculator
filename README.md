@@ -15,6 +15,7 @@ This project is for practising design, algorithm and coding.
   
 * Stage 3: scientific calculation functions
   - [ ] enhance parser to accept function calls (e.g. log(3 * 22))
+  - [ ] allowing non-10 based numbers (bin: 0b1011, hex: 0x3af, oct: 01375)
   - [ ] implement function evaluation
   
 * Stage 4: user experience improvement
