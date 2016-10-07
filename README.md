@@ -5,7 +5,7 @@ This project is for practising design, algorithm and coding.
 
 ## Development Plan
 * Stage 1: core functionality
-  - [ ] math expression parsor
+  - [ ] math expression parser
   - [ ] syntax tree evaluation
   - [ ] command line user interface
   - [ ] error handling
