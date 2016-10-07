@@ -5,7 +5,7 @@ This project is for practising design, algorithm and coding.
 
 ## Development Plan
 * Stage 1: core functionality
-  - [ ] math expression parsing for basic operators (+, -, \*, /, ^, !), negation and parentheses
+  - [ ] math expression parsor
   - [ ] syntax tree evaluation
   - [ ] command line user interface
   - [ ] error handling
@@ -14,9 +14,9 @@ This project is for practising design, algorithm and coding.
   - [ ] use GMP library to implement arbitrary precision calculation
   
 * Stage 3: scientific calculation functions
-  - [ ] enhance parser to accept function calls (e.g. log(3 * 22))
-  - [ ] allowing non-10 based numbers (bin: 0b1011, hex: 0x3af, oct: 01375)
   - [ ] implement function evaluation
+  - [ ] enhance parser to accept variable argument length function calls (e.g. max(1,2,3))
+  - [ ] allowing non-10 based numbers (bin: 0b1011, hex: 0x3af, oct: 01375) and scientific notation
   
 * Stage 4: user experience improvement
   - [ ] replace cin/scanf with gnu readline
