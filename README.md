@@ -11,7 +11,7 @@ This project is for practising design, algorithm and coding.
   - [ ] error handling
   
 * Stage 2: precision enhancement
-  - [ ] use GMP library to implement arbitrary precision calculation
+  - [ ] use GMP/CLN library to implement high precision calculation
   
 * Stage 3: scientific calculation functions
   - [ ] implement function evaluation
